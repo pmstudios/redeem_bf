@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/redeem_bf/static/css/main.6822d69b.chunk.css",
+    "main.css": "/redeem_bf/static/css/main.63e64d4d.chunk.css",
     "main.js": "/redeem_bf/static/js/main.e188af7a.chunk.js",
     "main.js.map": "/redeem_bf/static/js/main.e188af7a.chunk.js.map",
     "runtime-main.js": "/redeem_bf/static/js/runtime-main.d80b48a2.js",
@@ -8,15 +8,15 @@
     "static/js/2.5a84d8d0.chunk.js": "/redeem_bf/static/js/2.5a84d8d0.chunk.js",
     "static/js/2.5a84d8d0.chunk.js.map": "/redeem_bf/static/js/2.5a84d8d0.chunk.js.map",
     "index.html": "/redeem_bf/index.html",
-    "precache-manifest.c3a7c64f6bb1575af766b004f6ed1370.js": "/redeem_bf/precache-manifest.c3a7c64f6bb1575af766b004f6ed1370.js",
+    "precache-manifest.15d78dc12882539d097df0f90af11bef.js": "/redeem_bf/precache-manifest.15d78dc12882539d097df0f90af11bef.js",
     "service-worker.js": "/redeem_bf/service-worker.js",
-    "static/css/main.6822d69b.chunk.css.map": "/redeem_bf/static/css/main.6822d69b.chunk.css.map",
+    "static/css/main.63e64d4d.chunk.css.map": "/redeem_bf/static/css/main.63e64d4d.chunk.css.map",
     "static/js/2.5a84d8d0.chunk.js.LICENSE.txt": "/redeem_bf/static/js/2.5a84d8d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d80b48a2.js",
     "static/js/2.5a84d8d0.chunk.js",
-    "static/css/main.6822d69b.chunk.css",
+    "static/css/main.63e64d4d.chunk.css",
     "static/js/main.e188af7a.chunk.js"
   ]
 }
